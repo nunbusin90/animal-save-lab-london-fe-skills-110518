@@ -26,3 +26,10 @@ html {
     transform: rotate(20deg);
   }
 }
+
+@media screen and (max-width: 1090px) {
+  #dolphin {
+    top: 150px;
+    transform: rotate(20deg);
+  }
+}
