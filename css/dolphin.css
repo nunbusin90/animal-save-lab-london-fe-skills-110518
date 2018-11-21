@@ -23,13 +23,13 @@ html {
 @media screen and (min-width: 642px) {
   #dolphin {
     top: 150px;
-    transform: rotate(20deg);
+    transform: rotate(40deg);
   }
 }
 
 @media screen and (max-width: 1090px) {
   #dolphin {
     right: 20%;
-    transform: rotate(10deg);
+    transform: rotate(-10deg);
   }
 }
