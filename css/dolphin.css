@@ -29,7 +29,7 @@ html {
 
 @media screen and (max-width: 1090px) {
   #dolphin {
-    top: 150px;
+    right: 20%;
     transform: rotate(20deg);
   }
 }
